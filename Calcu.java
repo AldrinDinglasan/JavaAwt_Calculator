@@ -4,10 +4,7 @@
 
 package com.mycompany.calcu;
 
-/**
- *
- * @author maria
- */
+
  import java.awt.*;
 import java.awt.event.*;
 
